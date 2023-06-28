@@ -1,0 +1,7 @@
+{
+  "name": "kitchen-timer",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
